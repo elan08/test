@@ -1,0 +1,15 @@
+<<<<<<< HEAD
+мы внесли изменени€
+=======
+ћы внесли изменени€
+>>>>>>> master
+<html>
+<head>
+<meta charset="UTF-8">
+<title>GitHub</title>
+</head>
+<body>
+<p>We change file.</p>
+
+</body>
+</html>
